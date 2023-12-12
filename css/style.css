@@ -1304,7 +1304,7 @@ a:focus {
 }
 
 .contact .container-fluid {
-    background: url(/img/IMG_9278.jpg) left center no-repeat;
+    background: url(../img/IMG_9278.jpg) left center no-repeat;
     background-size: contain;
 }
 
